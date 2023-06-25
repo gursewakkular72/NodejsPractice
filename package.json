@@ -1,0 +1,23 @@
+{
+  "name": "node-js-practice",
+  "version": "1.0.0",
+  "description": "code excercise from the nodejs course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gursewakkular72/NodejsProjects.git"
+  },
+  "author": "gursewak singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gursewakkular72/NodejsProjects/issues"
+  },
+  "homepage": "https://github.com/gursewakkular72/NodejsProjects#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
